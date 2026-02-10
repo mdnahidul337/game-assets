@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 3285741571
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 43ac1d321c8045e1b3647725e7064116
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4487510423645b3844ff4e24c075c34f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9d99fbc3399fa66b188755b73a104c65
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Bus/Meshes/Bus.FBX
+- Assets/Bus/Meshes/env.FBX
+- Assets/Bus/prefabs/Bus.prefab
+Dependencies: []

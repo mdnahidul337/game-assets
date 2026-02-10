@@ -1,0 +1,195 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.2.8f1
+CRC: 2956232658
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27e85aa7c4511210315293adce4975cd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd56278d39fd929638acd66c99e7f980
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 326d76787a19ce5a2a6089093a2cb1b1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/FONE TOWER.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 15.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree All 1.fbx
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/GameObject.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/cha dokan.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 16.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/omar_house04_House03_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Palm Tree 1.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 14.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/G3 1Standard-Opaque-Mai0.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/17.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/1.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_Saidabad_10_Akash_Saidabad_10_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Banana Tree 3.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 1.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Palm Tree 3.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/tin ghor.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/dokan 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Banana Tree 1.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/StationBazaar_phong1_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 13.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Bush 1.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/FONE TOWER.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/fuel station_Cube.177_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Coconut Tree 1.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 12.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 12.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 10.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 5.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Banana Tree 2.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/BrickBar02_defaultPolygonShader_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_mir_b6_Akash_mir_b6_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 5.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/tin dokan.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Palm Tree 3.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/Building.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/15.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Palm Tree 3.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/16.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 14.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Banana Tree 3.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Coconut Tree 2.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/G5 1Standard-Opaque-Mai0.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/5.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Coconut Tree 2.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/G8 1Standard-Opaque-Mai0.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 11.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Coconut Tree 1.png
+- Assets/Truck Simulator Bangladesh/Models/Road/Texture/TwoLaneRoadClean01_1K_AO.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Coconut Tree 4.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Bush 2.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/toyer.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/BillboardShader.shader
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/G3 1Standard-Opaque-Mai0.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/cityGate_shop04_cityGate_shop04_mat_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 4.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/10.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/Akash_stall_12_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 8.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_mirarsorai_H02_Akash_mirarsorai_H02_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 15.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_stall_07_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/BDH1_BDH1_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 14.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Coconut Tree 4.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 5.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Palm Tree 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/11.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/Akash_stall_07_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/bazar.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 4.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/12.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_stall_12_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/Fuel E_M_Fuel_Machine_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 3.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Banana Tree 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Coconut Tree 3.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/akash mir b6  v2_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/7.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/eat.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Coconut Tree 3.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Banana Tree 1.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Banana Tree 4.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 6.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Ak sad b4 v2_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Banana Tree 4.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/4.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_mirarsorai_H04_Akash_mirarsorai_H04_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Banana Tree 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 4.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 13.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 2.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/14.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 13.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 10.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/cityGate_Building04_cityGate_Building04_mat_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/PillarPile_defaultPolygonShader_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/BrickBar_phong1_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/Akash_stall_08_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Coconut Tree 4.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/mal.blend
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_Saidabad_03_Akash_Saidabad_03_AlbedoTransparency.png.001.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_BoroDarogarHut_B01_Akash_BoroDarogarHut_B01_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 11.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/b5_b5_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/cityGate_Building04_cityGate_Building04_mat_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 3.png
+- Assets/Truck Simulator Bangladesh/Models/Road/Texture/TwoLaneRoadClean01_1K_Normal.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/Akash_Saidabad_10_Akash_Saidabad_10_AlbedoTransparency.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Palm Tree 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 7.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Banana Tree 3.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/Dokan 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Materials/G5 1Standard-Opaque-Mai0.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Coconut Tree 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/13.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 1.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 8.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 7.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Banana Tree 2.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/cityGate_shop23_cityGate_shop23_mat_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 6.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 16.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Palm Tree 2.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Coconut Tree 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/9.prefab
+- Assets/Truck Simulator Bangladesh/Models/Road/Texture/TwoLaneRoadClean01_1K_Height.png
+- Assets/Truck Simulator Bangladesh/Models/Road/Texture/TwoLaneRoadClean01_1K_BaseColor.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Palm Tree 1.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/G8 1Standard-Opaque-Mai0.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 3.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 2.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 15.png
+- Assets/Truck Simulator Bangladesh/Models/Road/Texture/TwoLaneRoadClean01_1K_Roughness.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Banana Tree 4.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Coconut Tree 3.mat
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 9.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/Cha Dokan 2.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 9.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/Dokan.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 10.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 11.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/cb 4_Cube.006_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 12.prefab
+- Assets/Truck Simulator Bangladesh/Models/DG/Prefab/Building 1.prefab
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 16.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_stall_08_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Materials/Tree 7.mat
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/cityGate_shop22_cityGate_shop22_mat_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/DG/Tex/Akash_stall_10_AlbedoTransparency.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Palm Tree 2.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 6.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Textures/Tree 8.png
+- Assets/Truck Simulator Bangladesh/Models/Tree/Tree 9.prefab
+- Assets/Truck Simulator Bangladesh/Models/Road/road.fbx
+Dependencies: []
